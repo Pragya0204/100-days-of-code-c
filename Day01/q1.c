@@ -1,0 +1,36 @@
+/*
+* Name: Pragya
+* Roll : 26010104703
+* Day  : 01    Question: 1
+* Date : 24-08-2026
+
+* PROBLEM STATEMENT:
+<paste the copied problem statement here*/
+<paste the copied problem statement here*/Q1: Write a program to input two numbers and display their sum.
+
+/*
+Sample Test Cases:
+Input 1:
+3 4
+Output 1:
+Sum = 7
+
+Input 2:
+-1 20
+Output 2:
+Sum = 19
+*/
+#include<stdio.h>
+int main()
+{
+    int num1;
+    int num2;
+    int sum;
+    printf("Enter first number");
+    scanf("%d",&num1);
+    printf("enter second number");
+    scanf("%d",&num2);
+    sum=num1+num2;
+    printf("Sum of two numbers is %d",sum);
+    return 0;
+}
