@@ -5,10 +5,8 @@
 * Date : 24-08-2026
 
 * PROBLEM STATEMENT:
-<paste the copied problem statement here*/
-<paste the copied problem statement here*/Q1: Write a program to input two numbers and display their sum.
+*Q1: Write a program to input two numbers and display their sum.
 
-/*
 Sample Test Cases:
 Input 1:
 3 4
